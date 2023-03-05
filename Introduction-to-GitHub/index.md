@@ -15,5 +15,5 @@ After reading this article, you will know what Git and GitHub are, how to create
 Git, often known as a "Distributed Version Control System," enables programmers to keep track of changes made to their codebases and collaborate with others. As a result, programmers may quickly compare versions of their code to see what has changed or go to previous versions. Git is installed on a developer's computer.
 Linus Torvalds created Git in 2005, which has now evolved into an essential tool for software development.
 
---- What is Distributed Version Control System (DVCS)
+--- What is Distributed Version Control System (DVCS) ---
 It is a software system
