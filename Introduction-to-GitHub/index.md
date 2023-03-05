@@ -1,4 +1,4 @@
-** Table of Contents **
+**Table of Contents**
 1. Introduction to Git
 1. What is Git
 1. What is GitHub
