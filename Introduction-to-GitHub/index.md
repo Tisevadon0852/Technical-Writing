@@ -1,5 +1,5 @@
 # **Table of Contents**
-## - [Introduction to Git and GitHub](#introduction-to-git-and-github)
+## -[Introduction to Git and GitHub](#introduction-to-git-and-github)
 ## - [What is Git](#what-is-git)
 ### - What is distributed Version Control System
 - What is GitHub
