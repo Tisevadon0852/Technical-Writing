@@ -1,7 +1,7 @@
 # **Table of Contents**
-## -[Introduction to Git and GitHub](#introduction-to-git-and-github)
-## - [What is Git](#what-is-git)
-### - What is distributed Version Control System
+## [Introduction to Git and GitHub](#introduction-to-git-and-github)
+## [What is Git](#what-is-git)
+- [What is Distributed Version Control System](#what-is-distributed-version-control-system)
 - What is GitHub
 - Why Learn About Git and GitHub
 - Differences Between Git and GitHub
@@ -18,3 +18,5 @@ Git, often known as a "Distributed Version Control System," enables programmers 
 
 Linus Torvalds created Git in 2005, which has now evolved into an essential tool for software development.
 
+### What is Distributed Version Control System(DVCS)
+It is a software system that enables multiple users to collaborate on the same codebase while keeping a history of changes made to the code. In a Distributed Version Control System, each user has their own local copy of the code repository, which they can work on independently, and the system manages the synchronization of changes made by different users. 
