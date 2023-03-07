@@ -1,12 +1,12 @@
 # **Table of Contents**
-## [Introduction to Git and GitHub](#introduction-to-git-and-github)
-## [What is Git](#what-is-git)
-### [What is Distributed Version Control System](#what-is-distributed-version-control-system)
-## [What is GitHub](#what-is-github)
-## [Why Learn About Git and GitHub](#why-learn-about-git-and-github)
-## [Differences Between Git and GitHub](#differences-between-git-and-github)
-## [Getting Started With Git GitHub](#getting-started-with-git-github)
-## Conclusion
+- [Introduction to Git and GitHub](#introduction-to-git-and-github)
+- [What is Git](#what-is-git)
+- [What is Distributed Version Control System](#what-is-distributed-version-control-system)
+- [What is GitHub](#what-is-github)
+- [Why Learn About Git and GitHub](#why-learn-about-git-and-github)
+- [Differences Between Git and GitHub](#differences-between-git-and-github)
+- [Getting Started With Git GitHub](#getting-started-with-git-github)
+- Conclusion
 
 ## Introduction to Git and GitHub
 It is common to become confused when learning the concepts of Git and GitHub for the first time. You might mistakenly believe that Git and GitHub are the same things if you're new to utilizing version control, but they're not.
@@ -18,7 +18,7 @@ Git, often known as a "Distributed Version Control System," enables programmers 
 
 Linus Torvalds created Git in 2005, which has now evolved into an essential tool for software development.
 
-### What is Distributed Version Control System
+## What is Distributed Version Control System
 It is a software system that enables multiple users to collaborate on the same codebase while keeping a history of changes made to the code. In a Distributed Version Control System, each user has their own local copy of the code repository, which they can work on independently, and the system manages the synchronization of changes made by different users. 
 
 ## What is GitHub
