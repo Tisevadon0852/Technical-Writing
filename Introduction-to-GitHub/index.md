@@ -46,3 +46,5 @@ Before attempting to install Git on your computer, check if it is installed alre
 ![Img](./img/annotely_image.jpeg)
 ![images](./img/annotely_image%20-%20Edited.png)
 ![images](./img/git-full.png)
+![images](https://annotely.com/preview/aclezdpvp1000208jicdwp7ful)
+![Image](./img/annotely_image%20(1).png)
