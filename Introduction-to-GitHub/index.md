@@ -43,4 +43,4 @@ Before attempting to install Git on your computer, check if it is installed alre
 - searching for Command Prompt on your computer: Go to the search bar, then type cmd or command prompt
 
 ![Image](./img/git.PNG)
-![Img](src="https://i.ibb.co/4mbJ7DY/git.png" alt="git")
+![Img](https://www.mediafire.com/file/iyav6twvze5xhzl/git.PNG/file)
