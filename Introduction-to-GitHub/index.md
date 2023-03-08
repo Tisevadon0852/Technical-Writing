@@ -42,4 +42,4 @@ You have gotten this far. Conratulations! This is the time make things easier by
 Before attempting to install Git on your computer, check if it is installed already. This involves taking few steps:
 - searching for Command Prompt on your computer: Go to the search bar, then type cmd or command prompt
 
-[url=https://ibb.co/2nz5yLs][img]https://i.ibb.co/4mbJ7DY/git.png[/img][/url]
+[![Alt text]([url=https://ibb.co/2nz5yLs][img]https://i.ibb.co/4mbJ7DY/git.png[/img][/url])]
