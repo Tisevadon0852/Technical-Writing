@@ -42,4 +42,4 @@ You have gotten this far. Conratulations! This is the time make things easier by
 Before attempting to install Git on your computer, check if it is installed already. This involves taking few steps:
 - searching for Command Prompt on your computer: Go to the search bar, then type cmd or command prompt
 
-[![Alt text](https://ibb.co/p07TsWM)]
+[![Alt text](<a href="https://ibb.co/p07TsWM"><img src="https://i.ibb.co/BzpJ74Q/challenge4.png" alt="challenge4" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/interpretation-of-din-kuch-aise-gujarta-hai-koi-by-gulzar'>jagjit singh din kuch aise guzarta hai koi</a><br />)]
