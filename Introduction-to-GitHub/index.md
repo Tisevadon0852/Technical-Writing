@@ -6,6 +6,7 @@
 - [Why Learn About Git and GitHub](#why-learn-about-git-and-github)
 - [Differences Between Git and GitHub](#differences-between-git-and-github)
 - [Getting Started With Git GitHub](#getting-started-with-git-github)
+- [Installing Git](#installing-git)
 - Conclusion
 
 ## Introduction to Git and GitHub
@@ -36,3 +37,9 @@ Additionally, Git is open-source software that can be freely downloaded and inst
 
 ## Getting Started With Git GitHub
 You have gotten this far. Conratulations! This is the time make things easier by using practical examples in explaining all the concepts we have talked about so far. Let us journey together...
+
+## Step 0 - Installing Git
+Before attempting to install Git on your computer, check if it is installed already. This involves taking few steps:
+- searching for Command Prompt on your computer: Go to the search bar, then type cmd or command prompt
+
+![FirstImage](https://ibb.co/p07TsWM)
